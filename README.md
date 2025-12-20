@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello 👋
+My name is Kiara Jenkins, I am currently in my fourth year of studies at Memorial University of Newfoundland, majoring in Computer Science with a minor in Psychology.
+
+## ⚙️ Technical Skills
+**Languages:** Python, Java, C, SQL, R  
+**Databases:** SQLite  
+**Developer Tools:** Git/Github, VS Code, LaTeX  
 
 <!--
 **kiarajenkins/kiarajenkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
