@@ -2,7 +2,7 @@
 My name is Kiara Jenkins, I am currently in my fourth year of studies at Memorial University of Newfoundland, majoring in Computer Science with a minor in Psychology.
 
 ## ⚙️ Technical Skills
-**Languages:** Python, Java, C, SQL, R  
+**Languages:** Python, Java, JavaScript, HTML, CSS, SQL, C 
 **Databases:** SQLite  
 **Developer Tools:** Git/Github, VS Code, LaTeX  
 
